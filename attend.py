@@ -63,7 +63,7 @@ def main():
   while True:
     print("=== 스터디 출석부 프로그램 ===")
     print("1. 출석 체크하기...")
-    print("2. 출석 목록 보기111")
+    print("2. 출석 목록 보기11111")
     print("3. 프로그램 종료")
     choice = input("원하는 작업의 번호를 입력하세요 (1-3): ").strip()
 
